@@ -1,6 +1,11 @@
 # Grid Light App
 An interactive React grid app where clicking on grid cells toggles lights on and off, demonstrating state management and UI interaction logic.
 
+---
+
+## 🌐 [Live Demo](https://grid-light-react-manaswini-sasmals-projects.vercel.app/)
+
+
 
 ## **Tech Stack Used**
 - React (v19)
@@ -28,15 +33,10 @@ An interactive React grid app where clicking on grid cells toggles lights on and
 - **React Hooks:** Simple and clear state management  
 - **Custom CSS:** Full control over grid layout and light effects  
 
---- 
+## Preview
+<img width="426" height="515" alt="image" src="https://github.com/user-attachments/assets/1e18264f-ff4d-44d4-af39-9ff22f47d429" />
+<img width="933" height="614" alt="image" src="https://github.com/user-attachments/assets/572d3e75-b797-4f27-8da2-c6f75906d198" />
 
-## **Challenges & Solutions**
-- **Managing multiple grid states:**  
-  Used arrays / matrix state to track active lights  
-- **Updating UI efficiently:**  
-  Updated state immutably to trigger minimal re-renders  
-- **Visual clarity:**  
-  Used CSS classes to clearly differentiate active vs inactive lights
 
 ---
 
