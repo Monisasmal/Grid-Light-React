@@ -1,12 +1,21 @@
-# React + Vite
+# Grid Light App
+An interactive React grid app where clicking on grid cells toggles lights on and off, demonstrating state management and UI interaction logic.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## **Tech Stack Used**
+- React (v19)
+- Vite
+- JavaScript (ES6+)
+- React Hooks
+- Custom CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## **Key Features**
+- Grid layout rendered dynamically using React  
+- Click interaction on each grid cell  
+- Toggle light on/off behavior  
+- Visual state change based on user interaction  
+- Clean and minimal UI  
+- Responsive grid layout  
+- No external UI or animation libraries used  
