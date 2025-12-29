@@ -48,7 +48,11 @@ An interactive React grid app where clicking on grid cells toggles lights on and
 - CSS handles the visual light effect based on state
 
 
+---
+
+
 🙋‍♀️ Author
+
 Manaswini Sasmal
 
 📲 - 6370094643
