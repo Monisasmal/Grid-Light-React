@@ -45,4 +45,18 @@ An interactive React grid app where clicking on grid cells toggles lights on and
 - Clicking a cell triggers an `onClick` event  
 - The clicked cell’s state is toggled (on ↔ off)  
 - React re-renders only the affected cell  
-- CSS handles the visual light effect based on state 
+- CSS handles the visual light effect based on state
+
+
+🙋‍♀️ Author
+Manaswini Sasmal
+
+📲 - 6370094643
+
+👩‍💻 Frontend Developer | React Enthusiast
+
+🔗 Portfolio - https://manaswini-portfolio.vercel.app/
+
+📧 manaswinisasmal5597@gmail.com
+
+🔗 LinkedIn - https://www.linkedin.com/in/manaswini-sasmal-b77a21162/
